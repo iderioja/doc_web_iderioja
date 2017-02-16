@@ -1,0 +1,37 @@
+site_name: WEB IDErioja
+pages:
+- Home: index.md
+- Base de Datos:
+    - Guía básica: basededatos/guiabasica.md
+    - Mapa: basededatos/mapa.md
+- Descargas:
+    - Selección: descargas/seleccion.md
+    - Productos: descargas/productos.md
+    - Formatos vectoriales: descargas/formatosvectoriales.md
+    - Formatos ráster: descargas/formatosraster.md
+    - GeoPDF: descargas/geopdf.md
+- IDE:
+    - Qué es la IDE: ide/queeslaide.md
+    - WMS: ide/wms.md
+    - WFS: ide/wfs.md
+    - IDE regional: ide/ideregional.md
+    - IDEs municipales: ide/idesmunicipales.md
+    - Otros protocolos: ide/otrosprotocolos.md
+    - Obtener datos vía WMS: ide/obtenerdatosviawms.md
+- Geovisor:
+    - Utilidad: geovisor/utilidad.md
+    - Funcionamiento: geovisor/funcionamiento.md
+    - Herramientas: geovisor/herramientas.md
+- Web Mapping:
+    - Mapas Interactivos: webmapping/mapasinteractivos.md
+    - Tuneado: webmapping/tuneado.md
+    - Descargas GeoJSON: webmapping/descargasgeojson.md
+    - APIS de mapas: webmapping/apisdemapas.md
+    - Ecosistema Leaflet: webmapping/ecosistemaleaflet.md
+- GitHub:
+    - Git: github/git.md
+    - Repositorios geográficos: github/repositoriosgeograficos.md
+    - Mis mapas en la red: github/mismapasenlared.md
+- Licencia: licencia.md
+- About: about.md
+theme: yeti
