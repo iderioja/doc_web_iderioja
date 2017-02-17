@@ -1,5 +1,5 @@
 # IDErioja
-</br>
+<br />
 
 El Gobierno de La Rioja (España), en su condición de Administración Regional, ejerce las competencias de carácter cartográfico señaladas en el artículo 6 a) del *[Real Decreto 1545/2007](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-20556), de 23 de noviembre, por el que se regula el Sistema Cartográfico Nacional*.
 
@@ -15,7 +15,7 @@ Para promover el uso público de la información geográfica, la oferta se compl
 
 Para facilitar el acceso y la consulta de información geográfica, el Gobierno de La Rioja mantiene el geoportal **[IDErioja](http://www.iderioja.org)**, desde donde es posible acceder a la totalidad de servicios y datos en régimen [Open Data](https://www.iderioja.larioja.org/index.php?id=8&lang=es).
 
-</br>
+<br />
 ![Geoportal IDErioja](/img/home_001.jpg "Geoportal IDErioja")
-</br>
+<br />
 

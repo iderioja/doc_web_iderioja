@@ -1,5 +1,5 @@
 #Selección
-</br>
+<br />
 
 La descarga de información geográfica del Gobierno de La Rioja, se efectúa desde la página web de [IDErioja](https://www.iderioja.larioja.org/), donde existe una apartado específico, que guía al usuario a través del proceso de descubrimiento y descarga.
 
@@ -22,43 +22,43 @@ Actualmente desde este apartado, se puede descargar información geográfica de 
   Este es el caso de los fotogramas aéreos, datos LIDAR, modelos digitales del terreno, imágenes renderizadas del relieve y otros.  
 - Complementariamente, se ha añadido a los *Mapas Interactivos* la posiblidad de que el usuario descargue en formato GeoJSON la información presentada en los mismos, de acuerdo a los criterios de filtrado por él establecidos.
 
-</br>
+<br />
 ##Operatoria
-</br>
+<br />
 
 Independientemente de cual sea la vía elegida para acceder al apartado de descarga de datos, el usuario accede a una página diseñada para facilitar el descubrimiento, la selección y la descarga de datos
 
 ![Página web descarga de datos](/img/descargas_seleccion_101.jpg "Página web descarga de datos")
-</br>
+<br />
 
-</br>
+<br />
 
 La página está estructura en tres zonas:
 
 - **Lateral izquierdo**  
-  </br>
+  <br />
   En esta zona el usuario debe seleccionar mediante un radiobotón la tipología de información que busca.  
-  </br>
+  <br />
   ![Selección de tipología](/img/descargas_seleccion_102.jpg "Selección de tipología")  
-  </br>
+  <br />
   A continuación debe seleccionar la colección (Topográfica/Ortofoto), el tema (Temática) o el municipio (Urbana).  
-  </br>
+  <br />
   ![Selección de colección](/img/descargas_seleccion_103.jpg "Selección de colección")  
-  </br>
+  <br />
   - **Zona central**  
-  </br>
+  <br />
   Seguidamente se debe pulsar en el mapa para elegir la hoja de la colección. En el caso de que los datos no estén cortados por hojas, basta con pulsar en cualquier parte del mapa.  
-  </br>
+  <br />
   ![Selección de hoja](/img/descargas_seleccion_104.jpg "Selección de hoja")  
-  </br>
+  <br />
   Para ayudar a la correcta localización de las hojas, en la parte superior existen unas herramientas de navegación que permiten ampliar la zona de selección o posicionarse en el entorno de un municipio determinado.  
-  </br>
+  <br />
   - **Lateral derecho**  
-  </br>
+  <br />
   Una vez se pulsa sobre el mapa para seleccionar el ámbito de la consulta, se presentan en la zona derecha de la pantalla los productos que hay disponibles para el tipo de información y zona solicitada.  
-  </br>
+  <br />
   Estos pueder ser datos GIS en distintos formatos: SHP, GeoPackage, GeoJSON; metadatos; colecciones cartográficas GeoPDF; ficheros KML,KMZ; datos CAD en formato DWG y DXF; imágenes, así como enlaces a distinta información complementaria.  
-  </br>
+  <br />
   ![Oferta de productos](/img/descargas_seleccion_105.jpg "Oferta de productos")  
-  </br>
+  <br />
 

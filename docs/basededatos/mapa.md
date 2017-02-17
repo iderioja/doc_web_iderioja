@@ -1,36 +1,36 @@
 #Mapa
-</br>
+<br />
 
 La representación cartográfica de los elementos almacenados en la Base de Datos IDErioja, se realiza sobre un visualizador geográfico desarrollado con medios propios, a partir de la librería Javascript de mapas *[OpenLayers](https://openlayers.org/)* (software abierto).
 
 La representación gráfica de los elementos puede variar dependiendo del sitio desde donde se haya llamado al mapa, ya que la base de datos ofrece a los administradores de la misma, la posiblidad de configurar la simbolización de los elementos.
 
-</br>
+<br />
 ![Visualizador geográfico](/img/basededatos_mapa_001.jpg "Visualizador geográfico")
-</br>
+<br />
 
 El visualizador utiliza el sistema geográfico de referencia UTM ETRS89 Huso 30 Norte, que es el [Sistema Geodésico de Referencia](https://www.iderioja.larioja.org/ver_docuweb_inline.php?codigo=61) oficial en España.
 
-</br>
-</br>
+<br />
+<br />
 ##Información
-</br>
+<br />
 
 El botón ![Botón ver datos de la capa](/img/basededatos_mapa_101.jpg "Botón ver datos de la capa") permite examinar los datos asociados a un elementos geográfico determinado.
 
 Una vez seleccionado el botón, y antes de elegir el elemento a interrogar, es necesario indicar en la leyenda mediante un radiobotón, la capa a la que pertenece el elemento geográfico del cual queremos extraer información.
 
 ![Selección de capa](/img/basededatos_mapa_102.jpg "Selección de capa")
-</br>
+<br />
 
 Una vez hecho esto se pulsa sobre el elemento geográfico elegido.
 
 ![Ventana información de capa](/img/basededatos_mapa_103.jpg "Ventana información de capa")
 
-</br>
-</br>
+<br />
+<br />
 ##Herramientas
-</br>
+<br />
 
 Además de las herramientas de navegación habituales en este tipo de visualizadores: *Zoom acercar*  (![Zooma acercar](/img/basededatos_mapa_201.jpg "Zoom acercar"))  *Zoom alejar*  (![Zooma alejar](/img/basededatos_mapa_202.jpg "Zoom alejar"))  *Zoom extensión* (![Zoom extensión](/img/basededatos_mapa_203.jpg "Zoom extensión"))  *Zoom ventana*  (![Zoom ventana](/img/basededatos_mapa_204.jpg "Zoom ventana")) y *Desplazamiento* (![Desplazamiento](/img/basededatos_mapa_205.jpg "Desplazamiento")), el botón ![Botón ir](/img/basededatos_mapa_206.jpg "Botón ir") ofrece al usuario la posibilidad de ubicarse en un punto del mapa a partir de una *coordenada*, una *dirección postal* o una *referencia catastral*.
 
@@ -47,32 +47,32 @@ Como complemento, el visualizador ofrece las siguientes herramientas y funciones
   
 - ![Botón gráficos](/img/basededatos_mapa_213.jpg "Botón gráficos") Gráficos:  
   Esta herramienta permite trazar sobre el mapa gráficos regulares e irregulares  
-  </br>
+  <br />
   ![Opciones gráficos](/img/basededatos_mapa_214.jpg "Opciones gráficos")  
-  </br>
+  <br />
   configurando sus propiedades.  
-  </br>
+  <br />
   ![Propiedades gráficos](/img/basededatos_mapa_215.jpg "Propiedades gráficos")  
-  </br>
+  <br />
   Los elementos dibujados se pueden guardar en formato [GeoJSON](http://geojson.org/), por lo que pueden ser cargados y reutilizados posteriormente.  
   
 - ![Botón etiquetas](/img/basededatos_mapa_216.jpg "Botón etiquetas") Etiquetas:  
   De forma similar a los gráficos, también es posible añadir al mapa etiquetas personalizadas.  
   Una vez seleccionada la herramienta, es necesario pulsar sobre el mapa en el punto en el que se quiere anclar la etiqueta. Hecho esto, se ofrece al usuario una pantalla para configurar las propiedades de simbolización del texto.  
-  </br>
+  <br />
   ![Propiedades etiquetas](/img/basededatos_mapa_217.jpg "Propiedades etiquetas")
   
 - ![Google Street View](/img/basededatos_mapa_218.jpg "Google Street View") Google Street View:  
   El Visualizador ofrece la posiblidad de realizar consultas visuales utilizando la utilidad *"Google Street View"*.  
-  </br>
+  <br />
   Después de seleccionar el botón, es necesario pulsar sobre el mapa. Si *Google* dispone de información asociada para ese entorno, se abre una nueva ventana que permite moverse haciendo uso de las funcionalidades de esta herramienta. La ventana incluye unos controles propios para optimizar la consulta: *Rotación*, *Velocidad*, *Zoom*.  
-  </br>
+  <br />
   ![Ventana Google Street View](/img/basededatos_mapa_219.jpg "Ventana Google Street View")  
 
-</br>
-</br>
+<br />
+<br />
 ##Fondos
-</br>
+<br />
 
 Cuando se inicia el visualizador geográfico, este presenta por defecto un fondo cartográfico de referencia con información cartográfica de La Rioja, que en los niveles de zoom más alejados incluye información visual de relieve.
 
@@ -80,7 +80,7 @@ Este fondo cartográfico se denomina *"Mapa Base IDErioja"*.
 
 ![Mapa Base IDErioja](/img/basededatos_mapa_301.jpg "Mapa Base IDErioja")
 
-</br>
+<br />
 En algunas ocasiones es necesario utilizar otro tipo de referencias fotográficas o topográficas.
 
 A través de la pestaña *"Fondos"*, es posible seleccionar otro fondo cartográfico entre una variada colección:
@@ -89,27 +89,27 @@ A través de la pestaña *"Fondos"*, es posible seleccionar otro fondo cartográ
 
 Cuando se selecciona un nuevo fondo cartográfico, o pulsando sobre el fondo activo, es posible configurar su nivel de transparencia.
 
-</br>
-</br>
+<br />
+<br />
 ##Otras capas
-</br>
+<br />
 Una de las opciones que ofrece el visualizador geográfico, es la de incorporar otras capas capas geográficas existentes en la Base de Datos IDErioja.
 
 Esta operación se realiza accediendo a la pestaña *"Otras Capas"*.
 
 ![Otras capas](/img/basededatos_mapa_401.jpg "Otras capas")
 
-</br>
+<br />
 La pantalla incluye un buscador que permite rastrear un texto determinado entre toda la oferta de información.
 
 ![Buscar capa](/img/basededatos_mapa_402.jpg "Buscar capa")
 
 Es necesario señalar que la oferta de capas es variable para cada configuración del visualizador, pudiendo ser modificada por el Administrador del Sistema.
 
-</br>
-</br>
+<br />
+<br />
 ##Servicios OGC:WMS
-</br>
+<br />
 
 El visualizador geográfico IDErioja, es compatible con los Servicios de Mapas WEB (WMS) definidos por el [Open Geospatial Consortium(OGC)] (http://www.opengeospatial.org/standards/wms).
 
@@ -119,7 +119,7 @@ Para facilitar el trabajo de localización de servicios WMS al usuario, existe u
 
 ![Servidores WMS](/img/basededatos_mapa_501.jpg "Servidores WMS")
 
-</br>
+<br />
 Para mayor comodidad el catálogo de servidores está organizado en:
 
 - Servidores de la C.A. de La Rioja
@@ -133,7 +133,7 @@ Una vez se ha seleccionado un servidor, el visualizador lanza una petición de i
 
 ![Capas WMS](/img/basededatos_mapa_502.jpg "Capas WMS")
 
-</br>
+<br />
 Una vez realizada la selección, la información procedente del Servico de Mapas WMS se incorpora al visualizador, siendo refrescada tras cada operación de navegación.
 
 Si se activa el radiobotón de la leyenda para la capa procedente de un servicio WMS, la operación de solicitar datos de la capa  ![Botón ver datos de la capa](/img/basededatos_mapa_02.jpg "Botón ver datos de la capa") , lanza contra el servidor una petición *"GetFeatureInfo"* que devuelve la información asociada al punto seleccionado.
@@ -142,13 +142,13 @@ En el ejemplo siguiente, el Servicio WMS de la D.G. del Catastro devuelve una ur
 
 ![GetFeatureInfo](/img/basededatos_mapa_503.jpg "GetFeatureInfo")
 
-</br>
+<br />
 En caso de que el Servicio WMS que se quiere consultar no estuviera incluido en el catálogo, la pestaña *"Servidores"* ofrece la posibilidad de introduccir manualmente la url del servicio. En este caso el usuario debería asegurarse de antemano que el servicio a incluir es compatible con el sistema geográfico del visualizador.
 
-</br>
-</br>
+<br />
+<br />
 ##Otras opciones
-</br>
+<br />
 
 Repartidas por el espacio de pantalla, el visualizador geográfico ofrece otras opciones:
 
@@ -159,20 +159,20 @@ Repartidas por el espacio de pantalla, el visualizador geográfico ofrece otras 
 - ![Colabora con IDErioja](/img/basededatos_mapa_605.jpg "Colabora con IDErioja")  Colabora con IDErioja. Esta función permite enviar a la Sección de SIG y Cartografía un comentario o sugerencia y acompañarla de una imagen.
 - ![Salir](/img/basededatos_mapa_606.jpg "Salir")  Salir.
 
-</br>
+<br />
 MAPA GUÍA
 
 La pestaña *"Mapa Guía"* despliega un pequeños mapa de referencia que permite un desplazamiento casi inmediato pulsando sobre un punto del mismo.
 
 ![Mapa guía](/img/basededatos_mapa_607.jpg "Mapa guía")
 
-</br>
+<br />
 COORDENADAS Y ESCALA
 
 La información del visualizador se completa con una escala gráfica y con información de las coordenadas del puntero.
 
 ![Escala gráfica](/img/basededatos_mapa_608.jpg "Escala gráfica")
 
-</br>
+<br />
 *NOTA: Puede encontrar más información de detalle sobre el funcionamiento de las herramientas de  navegación y posicionamiento, la edicición de gráficos y las opciones de la leyenda, en el propio botón de ayuda del visualizador  ![Ayuda](/img/basededatos_mapa_34.jpg "Ayuda")  y en [este enlace](https://visor2.iderioja.larioja.org/lib/ayuda.php).
 
